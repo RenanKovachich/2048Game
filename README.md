@@ -14,6 +14,7 @@
 
 ## Como utilizar
 
+- Instale a biblioteca tkinter
 - Abra o terminal na pasta do jogo (onde estão os arquivos)
 - Execute o comando: python3 main.py
 - Obs ao invés de python3 pode ser python na sua máquina, caso um não vá, teste o outro.
